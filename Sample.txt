@@ -1,0 +1,4 @@
+Hello GitHub!
+
+This is a sample file for the GitHub Setup Activity.
+I have successfully created my repository and uploaded this file.
